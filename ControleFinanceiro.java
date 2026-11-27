@@ -5,7 +5,7 @@ public class ControleFinanceiro {
         Scanner sc = new Scanner(System.in);
         
         System.out.println("Qual o seu Salário (Coloque em números)");
-        double salario = 0.00;
+        double Aluguel = 1.200,00;
         salario = sc.nextInt();
         
 
